@@ -16,7 +16,7 @@ This project is a valuable resource for computer vision engineers, data scientis
 ## Clone this repo.
 
 Download the source code for the Social Distancing Violation Monitoring project using YOLOv3 by clicking Code-> Download Zip
-
+Download yolov3.weights from https://drive.google.com/file/d/1i343OhYxdPFvzY1bxwCe7gmIUAvqeJdj/view?usp=sharing
 ---
 
 ## Requirements
