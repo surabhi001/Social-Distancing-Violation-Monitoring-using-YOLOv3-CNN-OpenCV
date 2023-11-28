@@ -38,7 +38,7 @@ Execute the Detect.py file and you can use any video of your choice by placing i
 
 **Created by:**
 
-Abdullah Shoumik
+Surabhi Purwar
 
 - Email: [surabhipurwar7@gmail.com](mailto:surabhipurwar7@gmail.com)
 
